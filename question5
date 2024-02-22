@@ -1,0 +1,5 @@
+Correct Answer(s):
+
+2-Tier Architecture is cheaper than 3-Tier Architecture
+3-Tier Architecture maintains Data Integrity.
+Since there is a middle layer between the client and the server, data corruption can be avoided/removed.

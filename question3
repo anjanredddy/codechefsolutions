@@ -1,0 +1,7 @@
+Correct Answer(s):
+
+Order history
+Search Histroy Data Base
+Product Category Data Base
+Explanation:
+We will not need a separate data base for price since we can just retrive it from the product details data base. Moreover, having separate data bases for prices will make a huge numbers of irrelavant entries.

@@ -1,0 +1,7 @@
+Correct Answer:
+
+Disaster! There is inconsistent data between the Student file and the Result file.
+Explanation:
+Failures may leave database in an inconsistent state with partial updates carried out.
+
+To prevent inconsistency - the programmer / operator handling the file system will need to ensure they manually fix all 'Roll number' entries in all the files.
